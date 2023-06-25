@@ -15,7 +15,7 @@
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
-<img width="55%" align="right" alt="Github" src="https://drive.google.com/file/d/1Vd1VDXHc9YurvH-jQtk-_7i9rTZ6QZx-/view?usp=drive_link" />
+<img width="55%" align="right" alt="Github" src="[https://drive.google.com/file/d/1Vd1VDXHc9YurvH-jQtk-_7i9rTZ6QZx-/view?usp=drive_link](https://raw.githubusercontent.com)" />
 
 
 - 🔭 I’m currently working on Github projects ...
