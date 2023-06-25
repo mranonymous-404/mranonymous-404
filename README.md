@@ -6,7 +6,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+![visitors](https://api.visitorbadge.io/api/VisitorHit?user=mranonymous-404&repo=github-visitors-badge&countColor=%237B1E7A)
 
 
 </p>
@@ -22,9 +22,9 @@
 
 - ✨ Creating bugs since 2020 ...
 
-- 🌱 I’m currently learning english  and Springboot etc... 
+- 🌱 I’m currently learning english  and Springboot ... 
 
-- 💬 Talk to me about Python, JavaScript, java, React ...
+- 💬 Talk to me about Python, JavaScript, java, ReactJs ...
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/mranonymous-404?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
