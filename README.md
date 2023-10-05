@@ -15,9 +15,9 @@
 
 <div size='20px'> My PortFolio Website:- "https://pankajsainiofficial.netlify.app/"</div>
 
-<h2> About Me <img src = "https://github.com/pankajsainiofficial/IMAGES/blob/main/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<h2> About Me <img src = " https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/git-header.svg" />
+<img width="55%" align="right" alt="Github" src=" https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/git-header.svg" />
 
 
 - 🔭 I’m currently working on Github projects ...
@@ -28,8 +28,8 @@
 
 - 💬 Talk to me about Python, JavaScript, java, ReactJs ...
 
-<h2> Skills <img src = "https://github.com/pankajsainiofficial/IMAGES/blob/4d9172e492c8e41cdd253ffdb43e1f3d93637b65/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/https://github.com/pankajsainiofficial?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/python.svg'> </a>
+<h2> Skills <img src = " https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/code.gif" width = 32px height=32px> </h2>
+<a href= https://github.com/pankajsainiofficial?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src = https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/python.svg'> </a>
 <a href= https://github.com/https://github.com/pankajsainiofficial?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/reactjs.svg'> </a>
 <a href= https://github.com/https://github.com/pankajsainiofficial?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/javascript.svg'> </a>
 <a href= https://github.com/https://github.com/pankajsainiofficial?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/c.svg'> </a>
