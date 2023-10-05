@@ -28,7 +28,7 @@
 
 - 💬 Talk to me about Python, JavaScript, java, ReactJs ...
 
-<h2> Skills <img src = "https://github.com/pankajsainiofficial/IMAGES/blob/main/code.gif" width = 32px height=32px> </h2>
+<h2> Skills <img src = "[https://github.com/pankajsainiofficial/IMAGES/blob/main/code.gif](https://github.com/pankajsainiofficial/IMAGES/blob/4d9172e492c8e41cdd253ffdb43e1f3d93637b65/code.gif)" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/pankajsainiofficial?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/python.svg'> </a>
 <a href= https://github.com/https://github.com/pankajsainiofficial?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/reactjs.svg'> </a>
 <a href= https://github.com/https://github.com/pankajsainiofficial?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/javascript.svg'> </a>
