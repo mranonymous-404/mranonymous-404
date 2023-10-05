@@ -29,7 +29,7 @@
 - 💬 Talk to me about Python, JavaScript, java, ReactJs ...
 
 <h2> Skills <img src = " https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/pankajsainiofficial?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src = https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/python.svg'> </a>
+<a href= https://github.com/https://github.com/pankajsainiofficial?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/python.svg'> </a>
 <a href= https://github.com/https://github.com/pankajsainiofficial?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/reactjs.svg'> </a>
 <a href= https://github.com/https://github.com/pankajsainiofficial?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/javascript.svg'> </a>
 <a href= https://github.com/https://github.com/pankajsainiofficial?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/c.svg'> </a>
