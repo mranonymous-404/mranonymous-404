@@ -3,7 +3,7 @@
 <img width="100%" height = "250px" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1812&q=80" alt="cover" />
 </div>
 
-<h1> Hello Fellow &lt; Developers/ &gt; &nbsp;<img src="https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/wave.gif" width="50" height="50" alt="wave file" style="display: block !important;"></h1>
+<h1> Hello Fellow &lt; Developers/ &gt; <img src="https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/wave.gif" width="50" height="50" alt="wave file" style="display: block !important;"/></h1>
 
 
 
@@ -16,7 +16,7 @@
 
 <h2> About Me <img src="https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
-<img width="55%" align="right" alt="Github" src=" https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/git-header.svg" />
+<img width="55%" align="right" alt="Github" src=" https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/git-header.svg" style="display: block !important;"/>
 
 
 - 🔭 I’m currently working on Github projects ...
@@ -27,7 +27,7 @@
 
 - 💬 Talk to me about Python, JavaScript, java, ReactJs ...
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/code.gif" width = 32px height=32px> </h2>
+<h2> Skills <img src = "https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/code.gif" width = 32px height=32px style="display: block !important;"/> </h2>
 <a href= https://github.com/https://github.com/pankajsainiofficial?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/python.svg'> </a>
 <a href= https://github.com/https://github.com/pankajsainiofficial?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/reactjs.svg'> </a>
 <a href= https://github.com/https://github.com/pankajsainiofficial?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/javascript.svg'> </a>
