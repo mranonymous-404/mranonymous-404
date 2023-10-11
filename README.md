@@ -4,9 +4,9 @@
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img display="block !important" src='https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/wave.gif' width="50px" height="50px" alt="wave file"></h1>
-<p>
+
 ![visitors](https://api.visitorbadge.io/api/VisitorHit?user=pankajsainiofficial&repo=github-visitors-badge&countColor=%237B1E7A)
-</p>
+
 <div size='20px'> Hi! My name is PANKAJ SAINI. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
