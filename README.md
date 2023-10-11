@@ -3,7 +3,7 @@
 <img width="100%" height = "250px" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1812&q=80" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img display="block !important" src='https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/wave.gif' width="50px" height="50px" alt="wave file"/></h1>
+<h1> 'Hello Fellow < Developers/ >!' <img display="block !important" src='https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/wave.gif' width="50px" height="50px" alt="wave file"/></h1>
 
 ![visitors](https://api.visitorbadge.io/api/VisitorHit?user=pankajsainiofficial&repo=github-visitors-badge&countColor=%237B1E7A)
 
