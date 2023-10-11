@@ -14,7 +14,7 @@
 
 <div size='20px'> My PortFolio Website:- "https://pankajsainiofficial.netlify.app/"</div>
 
-<h2> About Me <img src="https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/eatSleepCodeRepeat.gif" width = 100px height='100px' style="display: block !important;"></h2>
+<h2> About Me <img src="https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/eatSleepCodeRepeat.gif" width = 100px height='100px' style="display: block !important;"/></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/pankajsainiofficial/IMAGES/main/git-header.svg" style="display: block !important;"/>
 
